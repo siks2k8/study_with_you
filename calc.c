@@ -2,6 +2,6 @@
 
 int main() {
 	int firstNumber, secondNumber;
-	scanf("%d %d", &firstNumber, &secondNumber;
+	scanf("%d %d", &firstNumber, &secondNumber);
 	return 0;
 }
